@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jefferson Gutierrez
 - 👀 I’m interested in languages Python and Js
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript Backend
 - 👀 I'm looking for my first experience as a developer
