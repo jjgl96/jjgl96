@@ -1,3 +1,4 @@
+[README.txt](https://github.com/jjgl96/jjgl96/files/9347538/README.txt)
 - 👋 Hi, I’m Jefferson Gutierrez
 - 👀 I’m interested in languages Python and Js
 - 🌱 I’m currently learning JavaScript
